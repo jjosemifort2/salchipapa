@@ -271,7 +271,7 @@ exports.panel2 = (prefix, time, fechamex, fechabol, fechachi, fechaarg, fechacol
 *║├${prefix}admins* _[administradores del grupo]_
 *║├${prefix}grupolink* _[link del grupo]_
 *║├${prefix}ia_void* _[textvoid mucho texto]_
-*║├${prefix}estadobot _[ver el estado del bot]_
+*║├${prefix}estadobot* _[ver el estado del bot]_
 *║├${prefix}frase* _[frases random]_
 *║├${prefix}miperfil* _[tu perfil]_
 *║╰————————————*
